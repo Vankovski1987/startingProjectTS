@@ -1,0 +1,3 @@
+# startingProjectTS
+
+Starting Project
